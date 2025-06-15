@@ -1,5 +1,9 @@
 # 📊 Financial Analysis using Power BI
 
+## 🧩 Overview
+
+An interactive financial dashboard built with Power BI to analyze sales, profit, COGS, and performance across products, segments, and countries using 2013–2014 data.
+
 ## 🔍 Problem Statement
 
 Finance teams often face challenges in understanding and communicating key financial metrics like revenue, expenses, and profitability. Without visual insights, it's hard to track performance trends or uncover areas of concern.
