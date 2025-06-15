@@ -1,4 +1,4 @@
-# 📊 Financial Analysis using Power BI – Dashboard From Scratch
+# 📊 Financial Analysis using Power BI
 
 ## 🔍 Problem Statement
 
